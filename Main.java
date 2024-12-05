@@ -8,7 +8,7 @@ public class Main {
         accManager.createAccount("rrobertson", "guitar", "Robbie", "Robertson", false);
         accManager.createAccount("lhelm", "drums", "Levon", "Helm", false);
         accManager.createAccount("rmanuel", "piano", "Richard", "Manuel", false);
-        accManager.createAccount("gbrooks", "organ", "Garth", "Brooks", false);
+        accManager.createAccount("ghudson", "organ", "Garth", "Hudson", false);
     
         userInterface.start();
     }
